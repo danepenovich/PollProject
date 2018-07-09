@@ -1,0 +1,27 @@
+/* .back{
+    color:white;
+    font-weight:bold;
+    background-color:rgb(43, 173, 248);
+    width:300px;
+}
+
+.votes{
+    padding:10px;
+    margin:10px 0 0 0;
+    width:277px;
+    border:3px solid gray;
+    border-radius:5px;
+    background: linear-gradient(rgb(43, 173, 248), rgb(184, 78, 255), rgb(231, 116, 206));
+    color:white;
+    font-weight:bold;
+}
+
+.votes button{
+    color:white;
+    font-weight:bold;
+    background-color:rgb(43, 173, 248);
+}
+
+.votes h2,p{
+    margin:0 0 10px 0;
+} */
